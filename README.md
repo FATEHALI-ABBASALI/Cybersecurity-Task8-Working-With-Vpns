@@ -49,10 +49,7 @@
 <p><strong>Benefits:</strong> encrypts traffic on untrusted networks, hides your IP, prevents local network eavesdropping, enables access to geo-restricted content (within policy limits).</p>
 <p><strong>Limitations:</strong> provider can see metadata and may log data, some free providers throttle or limit servers, does not prevent fingerprinting or identification via cookies/logins, potential DNS/WebRTC leaks if misconfigured.</p>
 
-<h3>Interview Q&A (short answers)</h3>
-<p><strong>What is a VPN?</strong> A Virtual Private Network that creates an encrypted tunnel between your device and a remote server.</p>
-<p><strong>Difference between VPN and proxy?</strong> VPN encrypts all traffic system-wide; proxy often affects only one app and may not encrypt.</p>
-<p><strong>Common protocols:</strong> OpenVPN, WireGuard, IKEv2/IPSec, L2TP/IPSec.</p>
+
 
 <h3>Notes</h3>
 <p>Use official client downloads only. Capture screenshots immediately after connecting/disconnecting to ensure evidence accuracy. Do not use paid services unless you have authorization; use free tiers per the task instructions.</p>
