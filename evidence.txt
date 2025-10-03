@@ -1,0 +1,7 @@
+2025-10-02 14:12 — Created ProtonVPN account
+2025-10-02 14:15 — Installed ProtonVPN on Windows 10
+2025-10-02 14:18 — Connected to ProtonVPN (Germany - Frankfurt)
+2025-10-02 14:19 — Verified IP at whatismyipaddress.com (screenshot connected-ip.png)
+2025-10-02 14:22 — Ran Speedtest (connected) -> speedtest-connected.png
+2025-10-02 14:25 — Disconnected VPN, verified IP (disconnected-ip.png)
+2025-10-02 14:27 — Ran Speedtest (disconnected) -> speedtest-disconnected.png
